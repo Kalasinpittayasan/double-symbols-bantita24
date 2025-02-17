@@ -4,7 +4,6 @@ int main() {
     scanf("%d", &n);
      if (n % 2 != 0) {
             printf("Wrong input");
-         
       } else {
       for (int = 0; i < n; i+=2) {
           printf("*+");
