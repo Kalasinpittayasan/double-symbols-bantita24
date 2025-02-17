@@ -5,7 +5,7 @@ int main() {
      if (n % 2 != 0) {
             printf("Wrong input");
          
-      }else{
+      } else {
       for (int = 0; i < n; i+=2) {
           printf("*+");
         }
